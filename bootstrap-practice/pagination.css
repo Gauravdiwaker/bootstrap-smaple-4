@@ -1,0 +1,9 @@
+.col-md-6 img{
+    width: 100%;
+}
+.container{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid red;
+}
